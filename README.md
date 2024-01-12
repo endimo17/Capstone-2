@@ -12,7 +12,7 @@ Langkah 1: Pemahaman Bisnis, Latar Belakang, dan Tujuan.
 
 Langkah 2: Pemahaman Data
 
-Langkah 3: Pembersihan Data, termasuk mengelola tipe data, memeriksa outlier, dan menangani outlier
+Langkah 3: Pembersihan Data, termasuk mengelola tipe data, missing value, memeriksa outlier, dan menangani outlier
 
 Langkah 4: Analisis Data, Visualisasi, dan memberikan wawasan dari analisis
 
